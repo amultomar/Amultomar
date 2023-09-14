@@ -1,0 +1,51 @@
+import tkinter as tk
+import json
+
+# Function to handle form submission
+def save_data():
+    data = {
+        "name": name_entry.get(),
+        "email": email_entry.get(),
+        "age": age_entry.get()
+    }
+    
+    # Open the JSON file in write mode and save the data
+    with open("data.json", "w") as file:
+        json.dump(data, file)
+    
+    # Clear the form fields
+    name_entry.delete(0, tk.END)
+    email_entry.delete(0, tk.END)
+    age_entry.delete(0, tk.END)
+    
+    # Display a success message
+    status_label.config(text="Data saved successfully")
+
+# Create the main application window
+app = tk.Tk()
+app.title("Data Form")
+
+# Create form elements
+name_label = tk.Label(app, text="Name:")
+name_label.pack()
+name_entry = tk.Entry(app)
+name_entry.pack()
+
+email_label = tk.Label(app, text="Email:")
+email_label.pack()
+email_entry = tk.Entry(app)
+email_entry.pack()
+
+age_label = tk.Label(app, text="Age:")
+age_label.pack()
+age_entry = tk.Entry(app)
+age_entry.pack()
+
+submit_button = tk.Button(app, text="Submit", command=save_data)
+submit_button.pack()
+
+status_label = tk.Label(app, text="")
+status_label.pack()
+
+# Start the Tkinter main loop
+app.mainloop()
