@@ -1,16 +1,61 @@
-### Hi there 👋
+# 👋 Hi, I'm Amul Tomar
 
-<!--
-**amultomar/Amultomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Web Developer | 💡 Tech Enthusiast | 🎓 B.Tech CSE (AI Specialization)
 
-Here are some ideas to get you started:
+I'm a passionate developer with hands-on experience in building dynamic web applications using modern technologies like **React**, **Angular**, **Node.js**, **TypeScript**, and **Python**.  
+I love turning ideas into scalable, user-friendly products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+`React` • `Angular` • `HTML` • `CSS` • `JavaScript` • `TypeScript` • `Tailwind CSS` • `Bootstrap`
+
+**Backend**  
+`Node.js` • `Express.js` • `php` • `python`
+
+**Database & Tools**  
+`MongoDB` • `Firebase` • `MySQL` • `Git` • `GitHub` • `Postman` • `Vercel` • `Netlify`
+
+---
+
+## 📌 Featured Projects
+
+- 🎧 [Spotify Clone](https://github.com/amultomar/spotify-clone)  
+  A music streaming interface inspired by Spotify, built using React and Tailwind CSS.
+
+- 🏋️ [ZACSON – Fitness Website](https://github.com/amultomar/zacson-fitness)  
+  A fitness and training platform with responsive design and interactive UI.
+
+- 🧠 [KBC Quiz Game](https://github.com/amultomar/kbc-quiz)  
+  A fun trivia game inspired by *Kaun Banega Crorepati*, created using vanilla JS.
+
+- 🌐 [Portfolio Website](https://github.com/amultomar/portfolio)  
+  My personal portfolio showcasing skills, experience, and projects.
+
+---
+
+## 🌱 Currently Working On
+
+- 🧩 A **Real-Time Collaborative Text Editor** using **React/Next.js**, **TypeScript**, and **TailwindCSS**
+- Exploring **WebSockets**, **Firebase**, and real-time database integration
+
+---
+
+## 🏆 Leadership
+
+- 🎯 President, **Khusiya Bato Club (KBC)** – 2023 to 2024  
+  Led tech initiatives and social impact projects during my college tenure.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/amultomar)
+- 🌍 [Portfolio Website](https://amultomar.dev) *(Update this if needed)*
+- 📧 Email: amultomar@example.com *(Add real email if you want it public)*
+
+---
+
+Thanks for stopping by! Let's build something amazing together ✨
