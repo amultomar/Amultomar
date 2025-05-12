@@ -2,7 +2,7 @@
 
 🚀 Full Stack Web Developer | 💡 Tech Enthusiast | 🎓 B.Tech CSE (AI Specialization)
 
-I'm a passionate developer with hands-on experience in building dynamic web applications using modern technologies like **React**, **Angular**, **Node.js**, **TypeScript**, and **Python**.  
+I'm a passionate developer with hands-on experience in building dynamic web applications using modern technologies like **React**, **Angular**, **Node.js**, **TypeScript**, and **PHP**.  
 I love turning ideas into scalable, user-friendly products.
 
 ---
