@@ -52,9 +52,9 @@ I love turning ideas into scalable, user-friendly products.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/amultomar)
-- 🌍 [Portfolio Website](https://amultomar.dev) *(Update this if needed)*
-- 📧 Email: amultomar@example.com *(Add real email if you want it public)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/amul-tomar-b8019120b/)
+- 🌍 [Portfolio Website](https://amultomar.dev) 
+- 📧 Email: amultomar09@gmail.com 
 
 ---
 
