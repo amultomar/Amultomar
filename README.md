@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Amul Tomar
 
-🚀 Full Stack Web Developer | 💡 Tech Enthusiast | 🎓 B.Tech CSE (AI Specialization)
+Full Stack Web Developer |  Tech Enthusiast |  B.Tech CSE (AI Specialization)
 
 I'm a passionate developer with hands-on experience in building dynamic web applications using modern technologies like **React**, **Angular**, **Node.js**, **TypeScript**, and **PHP**.  
 I love turning ideas into scalable, user-friendly products.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**  
 `React` • `Angular` • `HTML` • `CSS` • `JavaScript` • `TypeScript` • `Tailwind CSS` • `Bootstrap`
@@ -20,7 +20,7 @@ I love turning ideas into scalable, user-friendly products.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 - 🎧 [Spotify Clone](https://github.com/amultomar/spotify-clone)  
   A music streaming interface inspired by Spotify, built using React and Tailwind CSS.
@@ -36,21 +36,21 @@ I love turning ideas into scalable, user-friendly products.
 
 ---
 
-## 🌱 Currently Working On
+##  Currently Working On
 
-- 🧩 A **Real-Time Collaborative Text Editor** using **React/Next.js**, **TypeScript**, and **TailwindCSS**
+-  A **Real-Time Collaborative Text Editor** using **React/Next.js**, **TypeScript**, and **TailwindCSS**
 - Exploring **WebSockets**, **Firebase**, and real-time database integration
 
 ---
 
-## 🏆 Leadership
+## Leadership
 
-- 🎯 President, **Khusiya Bato Club (KBC)** – 2023 to 2024  
+- President, **Khusiya Bato Club (KBC)** – 2023 to 2024  
   Led tech initiatives and social impact projects during my college tenure.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amul-tomar-b8019120b/)
 - 🌍 [Portfolio Website](https://amultomar.dev) 
