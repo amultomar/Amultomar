@@ -1,61 +1,85 @@
-# 👋 Hi, I'm Amul Tomar
+ Hi, I'm Amul Tomar
+ Full Stack Web Developer | Passionate about building scalable and user-friendly web applications.
 
-Full Stack Web Developer |  Tech Enthusiast |  B.Tech CSE (AI Specialization)
+I’m a B.Tech Computer Science (AI Specialization) graduate and a full-stack developer with hands-on experience building modern web applications using technologies like React, Angular, Node.js, and TypeScript.
 
-I'm a passionate developer with hands-on experience in building dynamic web applications using modern technologies like **React**, **Angular**, **Node.js**, **TypeScript**, and **PHP**.  
-I love turning ideas into scalable, user-friendly products.
+I enjoy solving real-world problems through clean code, responsive UI, and efficient backend systems. My focus is on creating fast, scalable, and visually appealing web applications.
 
----
+Work Experience
+Software Engineer 
+Technokrate Pvt. Ltd.
 
-## Tech Stack
+Worked on real-world client-based web applications and production-level projects.
+Developed responsive UI components using React, HTML, CSS, and JavaScript.
+Integrated APIs and handled frontend–backend communication.
+Contributed to building platforms like RevenueHub and Job Portal.
+Focused on performance optimization, responsive design, and clean code architecture.
 
-**Frontend**  
-`React` • `Angular` • `HTML` • `CSS` • `JavaScript` • `TypeScript` • `Tailwind CSS` • `Bootstrap`
+Tech Stack
+Frontend Development
+React • Angular • HTML5 • CSS3 • JavaScript • TypeScript
+Tailwind CSS • Bootstrap • Responsive UI
 
-**Backend**  
-`Node.js` • `Express.js` • `php` • `python`
+Backend Development
+Node.js • Express.js • PHP • Python
 
-**Database & Tools**  
-`MongoDB` • `Firebase` • `MySQL` • `Git` • `GitHub` • `Postman` • `Vercel` • `Netlify`
+Databases
+MongoDB • MySQL • Firebase
 
----
+Tools & Platforms
+Git • GitHub • Postman • Vercel • Netlify
 
-## Featured Projects
+Projects
+RevenueHub – Business Platform
+A business and revenue management platform designed to help organizations manage services and digital operations efficiently.
 
-- 🎧 [Spotify Clone](https://github.com/amultomar/spotify-clone)  
-  A music streaming interface inspired by Spotify, built using React and Tailwind CSS.
+Tech Used: React, API Integration, Responsive UI
 
-- 🏋️ [ZACSON – Fitness Website](https://github.com/amultomar/zacson-fitness)  
-  A fitness and training platform with responsive design and interactive UI.
+Job Portal – Employer Dashboard
+A complete recruitment platform that allows employers to post jobs, manage candidates, and streamline the hiring process.
 
-- 🧠 [KBC Quiz Game](https://github.com/amultomar/kbc-quiz)  
-  A fun trivia game inspired by *Kaun Banega Crorepati*, created using vanilla JS.
+Tech Used: React, Firebase, Authentication
 
-- 🌐 [Portfolio Website](https://github.com/amultomar/portfolio)  
-  My personal portfolio showcasing skills, experience, and projects.
+Spotify Clone
+A modern music streaming UI inspired by Spotify with dynamic interface and responsive design.
 
----
+Tech Used: React, Tailwind CSS
 
-##  Currently Working On
+KBC Quiz Game
+An interactive quiz application inspired by Kaun Banega Crorepati with engaging gameplay and dynamic question flow.
 
--  A **Real-Time Collaborative Text Editor** using **React/Next.js**, **TypeScript**, and **TailwindCSS**
-- Exploring **WebSockets**, **Firebase**, and real-time database integration
+Tech Used: JavaScript, HTML, CSS
 
----
+ZACSON – Fitness Website
+A fully responsive fitness and training platform designed to provide workout programs and training information.
 
-## Leadership
+Tech Used: HTML, CSS, JavaScript
 
-- President, **Khusiya Bato Club (KBC)** – 2023 to 2024  
-  Led tech initiatives and social impact projects during my college tenure.
+Currently Exploring
+Real-time web applications
 
----
+WebSockets & live collaboration systems
 
-## Let's Connect
+Advanced React performance optimization
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amul-tomar-b8019120b/)
-- 🌍 [Portfolio Website](https://amultomar.dev) 
-- 📧 Email: amultomar09@gmail.com 
+Scalable full-stack architectures
 
----
+Leadership
+President – Khusiya Bato Club (KBC)
+2023 – 2024
+
+Led multiple technical and social initiatives during my college tenure, organizing events and encouraging student participation in tech activities.
+
+Let's Connect
+LinkedIn
+https://www.linkedin.com/in/amul-tomar-b8019120b/
+
+Portfolio
+https://portfolio-amultomar.netlify.app/
+
+Email
+amultomar09@gmail.com
+
+✨ “Code. Build. Learn. Improve.”
 
 Thanks for stopping by! Let's build something amazing together ✨
